@@ -1,0 +1,11 @@
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\bin\Debug\DemoSQLDependency.exe.config
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\bin\Debug\DemoSQLDependency.exe
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\bin\Debug\DemoSQLDependency.pdb
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.csprojAssemblyReference.cache
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.frmNhanVien.resources
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.Properties.Resources.resources
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.csproj.GenerateResource.cache
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.csproj.CoreCompileInputs.cache
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.exe
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.pdb
+D:\SQLDependency\DemoSQLDependency\DemoSQLDependency\obj\Debug\DemoSQLDependency.frmDSNhanVien.resources
